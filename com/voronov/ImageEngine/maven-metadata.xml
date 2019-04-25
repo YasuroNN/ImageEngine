@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.voronov</groupId>
+  <artifactId>ImageEngine</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190425062029</lastUpdated>
+  </versioning>
+</metadata>
